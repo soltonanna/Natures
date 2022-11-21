@@ -1,0 +1,11 @@
+** npm init -y **
+
+** git init **
+
+
+** npm i autoprefixer **
+** npm i node-sass **
+** npm i --save-dev mini-css-extract-plugin **
+** npm i npm-run-all **
+** npm i postcss-cli **
+** npm i concat **
